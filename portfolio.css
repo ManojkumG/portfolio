@@ -1,0 +1,695 @@
+.background-card-container {
+    background-color: #0b66de;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 16px;
+}
+
+.heading-card-w {
+    color: #878681;
+    font-size: 33px;
+    font-family: "Roboto";
+    width: 100%;
+    font-weight: 100;
+    padding-top: 55px;
+}
+
+.paragraf-para1 {
+    color: #878681;
+    font-size: 28px;
+    font-family: 'Times New Roman';
+    width: 100%;
+    font-weight: 100;
+}
+
+.paragraf-para {
+    color: #878681;
+    font-size: 28px;
+    font-family: "Roboto";
+    width: 100%;
+    font-weight: 100;
+}
+
+.background-container {
+    background-color: #d7f4f5;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+    text-align: center;
+    padding: 14px;
+}
+
+.para {
+    color: #c9d7f5;
+    font-size: large;
+}
+
+.background-container0 {
+    background-color: black;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+    padding: 14px;
+}
+
+.heading {
+    color: green;
+}
+
+#word-fear {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear1 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear2 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear3 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear4 {
+    color: green;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear5 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear6 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear7 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear8 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear9 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear10 {
+    color: green;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear11 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear12 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#word-fear13 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+.paragraph-words {
+    color: gray;
+    font-size: 16px;
+    font-family: "Roboto";
+}
+
+#color-color {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color1 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color2 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color3 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color4 {
+    color: green;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color5 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color6 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color7 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color8 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color9 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color10 {
+    color: green;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color11 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color12 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color13 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#color-color14 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+    text-decoration: underline;
+}
+
+#google-card {
+    height: 28px;
+}
+
+#color-colorq {
+    font-family: "Roboto";
+    font-size: 22px;
+    color: black;
+}
+
+.background-card-container1 {
+    background-color: #de0b16;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 16px;
+}
+
+.background-container2 {
+    background-color: #d7f4f5;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+    padding: 14px;
+}
+
+.background-card-container3 {
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.background-container4 {
+    background-color: #ffffff;
+    height: 100%;
+    border-radius: 16px;
+    padding: 8px;
+}
+
+.background-card-container2 {
+    background-color: #fcba03;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 16px;
+}
+
+.text-content-card-container {
+    font-family: "Roboto";
+}
+
+.background-card-container3 {
+    background-color: green;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 16px;
+}
+
+.card-blue1 {
+    background-image: url("https://res.cloudinary.com/ds0goesj2/image/upload/v1702057081/linkedinforbusiness900_lrsm0p.jpg");
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+    padding: 8px;
+}
+
+.heading-word-g {
+    color: #24302e;
+    font-family: "Roboto";
+    text-align: center;
+
+}
+
+.button-doe {
+    background-color: #c9ffd8;
+    color: #24302e;
+    font-family: "Roboto";
+    border-radius: 8px;
+    padding: 5px;
+
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-customers-section-modal-title {
+    color: #4d78e3;
+    font-weight: 800;
+}
+
+.custom-button {
+    color: #183b56;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-width: 1;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.card-blue2 {
+    background-image: url("https://res.cloudinary.com/ds0goesj2/image/upload/v1702056825/desktop-wallpaper-linkedin-background-linkedin_ltoqby.jpg");
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+    padding: 8px;
+}
+
+.custom-button1 {
+    color: #183b56;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-width: 1;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.heading-word-g1 {
+    color: #24302e;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.card-blue3 {
+    background-image: url("https://res.cloudinary.com/ds0goesj2/image/upload/v1702058934/1c-LinkedIn-Banner-Personal-design-1_xpv1qo.png");
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+    padding: 8px;
+}
+
+.card-blue4 {
+    background-image: url("https://res.cloudinary.com/ds0goesj2/image/upload/v1702065420/Data-900x400_hbw8zp.jpg");
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+    padding: 8px;
+}
+
+.card-blue5 {
+    background-image: url("https://res.cloudinary.com/ds0goesj2/image/upload/v1702065241/Technology-008_capc7w.jpg");
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+    padding: 8px;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    padding-left: 12px;
+}
+
+.icon {
+    color: #de0b16;
+    font-size: 35px;
+}
+
+.icon1 {
+    color: #fcba03;
+    font-size: 35px;
+}
+
+.icon2 {
+    color: green;
+    font-size: 35px;
+}
+
+.icon3 {
+    color: #0b66de;
+    font-size: 35px;
+}
+
+.icon4 {
+    color: #de0b16;
+    font-size: 35px;
+}
+
+.background-card-container23 {
+    background-color: #edeff0;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 16px;
+}
+
+.paragragh-text-gap {
+    color: gray;
+    font-size: small;
+
+}
+
+.icon23 {
+    font-size: 14px;
+
+}
+
+.icon7 {
+    color: #de0b16;
+    font-size: 35px;
+}
+
+.background-container {
+    background-color: #beebf7;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+
+.heading-smile {
+    background-color: transparent;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-color: #beebf7;
+    color: #fafcfc;
+    font-family: "monospace";
+    font-size: 28px;
+    padding-top: 25px;
+}
+
+.color-card {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card1 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card2 {
+    color: green;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card3 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card4 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card5 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card6 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card7 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card8 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card9 {
+    color: green;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card10 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card11 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card12 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card13 {
+    color: green;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card14 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card15 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card16 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card17 {
+    color: green;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card18 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card19 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card20 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card21 {
+    color: green;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card22 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card23 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card24 {
+    color: #fcba03;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card25 {
+    color: green;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card26 {
+    color: #0b66de;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.color-card27 {
+    color: #de0b16;
+    font-family: "Roboto";
+    font-weight: 100;
+}
+
+.h-word {
+    height: 28px;
+    width: 28px;
+}
+
+.egit {
+    border-radius: 280px;
+}
